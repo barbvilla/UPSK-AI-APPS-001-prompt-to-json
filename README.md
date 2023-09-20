@@ -78,7 +78,7 @@ herramienta.
 
 3. El chatbot generado debe ser capaz de generar respuestas en formato JSON.
 
-4. Tus github actions deben pasar exitosamente.
+4. Tus github actions deben pasar exitosamente..
 
 5. Debes utilizar al menos lo siguientes nodos:
 
